@@ -2,8 +2,8 @@
 
 // Configuración Matrix
 const LINE_COUNT = 30;
-const MATRIX_TEXT = "EVELYN ";
-const LOVE_CHARS = ["😘", "💖", "💕", "💞", "🥰", "💝", "💗"];
+const MATRIX_TEXT = "TE QUIERO ";
+const LOVE_CHARS = ["😘", "💖", "💕", "💞", "🥰", "💝", "💗", "💖", "💝", "💖", "🥰", "💘", "😘", "💗"];
 
 // Elementos interactivos
 const centro = document.querySelector('.centro');
@@ -62,3 +62,4 @@ window.addEventListener('load', () => {
 });
 
 window.addEventListener('resize', handleResize);
+
