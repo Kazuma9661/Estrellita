@@ -1,7 +1,7 @@
 // script.js
 
 // Configuración Matrix
-const LINE_COUNT = 30;
+const LINE_COUNT = 50;
 const MATRIX_TEXT = "TE QUIERO ";
 const LOVE_CHARS = ["😘", "💖", "💕", "💞", "🥰", "💝", "💗", "💖", "💝", "💖", "🥰", "💘", "😘", "💗"];
 
@@ -62,4 +62,5 @@ window.addEventListener('load', () => {
 });
 
 window.addEventListener('resize', handleResize);
+
 
